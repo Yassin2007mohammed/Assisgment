@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OMAR\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|E:\\OMAR\\Quiz\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|solutionrelative:welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|E:\\OMAR\\Quiz\\quizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|solutionrelative:quizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|e:\\omar\\quiz\\quizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|solutionrelative:quizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|E:\\OMAR\\Quiz\\result.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|solutionrelative:result.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|E:\\OMAR\\Quiz\\result.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|solutionrelative:result.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|E:\\OMAR\\Quiz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|E:\\OMAR\\Quiz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|E:\\OMAR\\Quiz\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186022E3-8FBD-4D23-84CB-8D075996412A}|Quiz.csproj|solutionrelative:welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.xaml",
+              "DocumentMoniker": "E:\\OMAR\\Quiz\\Result.xaml",
+              "RelativeDocumentMoniker": "Result.xaml",
+              "ToolTip": "E:\\OMAR\\Quiz\\Result.xaml",
+              "RelativeToolTip": "Result.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T19:55:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.xaml.cs",
+              "DocumentMoniker": "E:\\OMAR\\Quiz\\Result.xaml.cs",
+              "RelativeDocumentMoniker": "Result.xaml.cs",
+              "ToolTip": "E:\\OMAR\\Quiz\\Result.xaml.cs",
+              "RelativeToolTip": "Result.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:55:40.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizPage.xaml.cs",
+              "DocumentMoniker": "E:\\OMAR\\Quiz\\QuizPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizPage.xaml.cs",
+              "ToolTip": "E:\\OMAR\\Quiz\\QuizPage.xaml.cs",
+              "RelativeToolTip": "QuizPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:55:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizPage.xaml",
+              "DocumentMoniker": "E:\\OMAR\\Quiz\\QuizPage.xaml",
+              "RelativeDocumentMoniker": "QuizPage.xaml",
+              "ToolTip": "E:\\OMAR\\Quiz\\QuizPage.xaml",
+              "RelativeToolTip": "QuizPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T19:54:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.xaml",
+              "DocumentMoniker": "E:\\OMAR\\Quiz\\Welcome.xaml",
+              "RelativeDocumentMoniker": "Welcome.xaml",
+              "ToolTip": "E:\\OMAR\\Quiz\\Welcome.xaml",
+              "RelativeToolTip": "Welcome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T19:47:27.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Welcome.xaml.cs",
+              "DocumentMoniker": "E:\\OMAR\\Quiz\\Welcome.xaml.cs",
+              "RelativeDocumentMoniker": "Welcome.xaml.cs",
+              "ToolTip": "E:\\OMAR\\Quiz\\Welcome.xaml.cs",
+              "RelativeToolTip": "Welcome.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvx0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:54:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\OMAR\\Quiz\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\OMAR\\Quiz\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T19:44:53.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\OMAR\\Quiz\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\OMAR\\Quiz\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:30:08.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

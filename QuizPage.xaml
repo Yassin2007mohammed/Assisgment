@@ -1,0 +1,64 @@
+﻿<Page x:Class="Quiz.QuizPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Quiz"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="QuizPage"
+      Background="White">
+    <Grid ShowGridLines="True" >
+        
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="650"/>
+            <ColumnDefinition Width="170"/>
+        </Grid.ColumnDefinitions>
+        
+        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="39"/>
+        </Grid.RowDefinitions>
+        
+        
+        <Grid.Background>
+            <ImageBrush ImageSource="6.jpg"/>
+        </Grid.Background>
+
+        
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Center" Width="545" Height="52" FontSize="20" FontWeight="Bold" FontStyle="Italic" Margin="45,0,0,0" Grid.ColumnSpan="2"><Run Text="WPF Is An Old Consept For Develo"/><Run Language="en-au" Text="pimg Desktop App ?"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="610" Height="66" FontSize="20" FontWeight="Bold" FontStyle="Italic" Grid.Row="1" RenderTransformOrigin="0.5,0.665" Grid.ColumnSpan="2" Margin="45,23,0,0"><Run Text="Wpf Is Complex To Use As Compared To Windows Forms "/><Run Language="en-au" Text="?"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="610" Height="70" FontSize="20" FontWeight="Bold" FontStyle="Italic" Grid.Row="2" Margin="45,22,0,0" Grid.ColumnSpan="2"><Run Text="In WPF, Things Are Achieved At The Slower Rate"/><Run Language="en-au" Text=" ?"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="380" Height="35" FontSize="20" FontWeight="Bold" FontStyle="Italic" Grid.Row="3" Margin="45,48,0,0"><Run Text="WPF Has Enhanced Security Features "/><Run Language="en-au" Text="?"/></TextBlock>
+        
+        
+        <RadioButton  Grid.Column="2" Content="Yes " Margin="25,10,-45,0" VerticalAlignment="Top" Height="27" FontSize="20" FontWeight="Bold"  GroupName="1"/>
+        <RadioButton Name ="NoFristQ"  Grid.Column="2" Content="No" Margin="25,51,-45,0" VerticalAlignment="Top" Height="27" FontSize="20" FontWeight="Bold" Checked="RadioButton_Checked"  GroupName="1"/>
+        <RadioButton Name="YesSecontQ" Grid.Column="2" Content="Yes " HorizontalAlignment="Left" Margin="25,18,0,0" VerticalAlignment="Top" Height="27" Width="320" FontSize="20" FontWeight="Bold" Grid.Row="1"  GroupName="2"/>
+        <RadioButton Grid.Column="2" Content="No" HorizontalAlignment="Left" Margin="25,51,0,0" VerticalAlignment="Top" Height="27" Width="320" FontSize="20" FontWeight="Bold" Checked="RadioButton_Checked" Grid.Row="1"  GroupName="2"/>
+        <RadioButton Grid.Column="2" Content="Yes " HorizontalAlignment="Left" Margin="25,30,0,0" VerticalAlignment="Top" Height="26" Width="321" FontSize="20" FontWeight="Bold" Grid.Row="2" Checked="RadioButton_Checked_1"  GroupName="3"/>
+        <RadioButton Name="NoThirdQ" Grid.Column="2" Content="No" HorizontalAlignment="Left" Margin="25,66,0,0" VerticalAlignment="Top" Height="26" Width="321" FontSize="20" FontWeight="Bold" Checked="RadioButton_Checked" Grid.Row="2"  GroupName="3"/>
+        <RadioButton Name="YesForthQ" Grid.Column="2" Content="Yes " HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Height="27" Width="322" FontSize="20" FontWeight="Bold" Grid.Row="3" Checked="RadioButton_Checked_1" GroupName="4"/>
+        <RadioButton Grid.Column="2" Content="No" Margin="25,57,-46,0" VerticalAlignment="Top" Height="26" FontSize="20" FontWeight="Bold" Checked="RadioButton_Checked" Grid.Row="3" GroupName="4" />
+        
+        
+        <Button Content="Submet" Grid.Row="4" Grid.Column="1" FontSize="18" FontWeight="Bold" FontStyle="Italic" Background="#FF5CD0E3" Foreground="#FFFFDFDF" Click="Button_Click" HorizontalAlignment="Left" Width="135" Height="29" VerticalAlignment="Center" Margin="10,0,0,0">
+            <Button.Template >
+                <ControlTemplate TargetType="Button" >
+                    <Border
+               Background="#FF11F6FF" 
+               CornerRadius="25">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        
+        
+    </Grid>
+</Page>

@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\controllers\\assigmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\controllers\\assigmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\assigment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\assigment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\assigment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\assigment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\assigment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\assigment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\assigment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\assigment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\models\\entites\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\models\\entites\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\models\\viewmodel\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\models\\viewmodel\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\models\\entites\\assigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\models\\entites\\assigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\subjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\subjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\teacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\teacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yassin.Mohamed\\source\\repos\\Quiz\\Quiz\\Migrations\\20241229123948_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\models\\entites\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\models\\entites\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|c:\\users\\hp\\onedrive\\desktop\\quiz\\quiz\\migrations\\20241229170741_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4492D6E3-2552-4435-BB5E-9EB91177B475}|Quiz\\Quiz.csproj|solutionrelative:quiz\\migrations\\20241229170741_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Assigment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Assigment\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Assigment\\Delete.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Assigment\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:35:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Assigment\\Create.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Assigment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Assigment\\Create.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Assigment\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:31:13.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Assigment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Assigment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Assigment\\Index.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Assigment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:30:35.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssigmentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Controllers\\AssigmentController.cs",
+              "RelativeDocumentMoniker": "Quiz\\Controllers\\AssigmentController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Controllers\\AssigmentController.cs",
+              "RelativeToolTip": "Quiz\\Controllers\\AssigmentController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAADYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:07:12.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowCIAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T12:56:34.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\Viewmodel\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Quiz\\Models\\Viewmodel\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\Viewmodel\\ViewModel.cs",
+              "RelativeToolTip": "Quiz\\Models\\Viewmodel\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:07:36.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\Entites\\Teacher.cs",
+              "RelativeDocumentMoniker": "Quiz\\Models\\Entites\\Teacher.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\Entites\\Teacher.cs",
+              "RelativeToolTip": "Quiz\\Models\\Entites\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:14:52.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Quiz\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Quiz\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:45:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "Quiz\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "Quiz\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowD8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:58:35.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Assigment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Assigment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Assigment\\Edit.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Assigment\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:33:34.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241229170741_first.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Migrations\\20241229170741_first.cs",
+              "RelativeDocumentMoniker": "Quiz\\Migrations\\20241229170741_first.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Migrations\\20241229170741_first.cs",
+              "RelativeToolTip": "Quiz\\Migrations\\20241229170741_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:07:41.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Assigment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\Entites\\Assigment.cs",
+              "RelativeDocumentMoniker": "Quiz\\Models\\Entites\\Assigment.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\Entites\\Assigment.cs",
+              "RelativeToolTip": "Quiz\\Models\\Entites\\Assigment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:16:22.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\appsettings.json",
+              "RelativeDocumentMoniker": "Quiz\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\appsettings.json",
+              "RelativeToolTip": "Quiz\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T12:29:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Subjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Subjects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Subjects\\Index.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Subjects\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwCgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:03:39.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Subjects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Subjects\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Subjects\\Delete.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Subjects\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:05:05.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Subjects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Subjects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Subjects\\Edit.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Subjects\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:04:35.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Subjects\\Create.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Subjects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Subjects\\Create.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Subjects\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:04:05.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T12:54:28.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Teacher\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Teacher\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Teacher\\Delete.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Teacher\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T12:56:21.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Quiz\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Quiz\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:24:58.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Teacher\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Teacher\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Teacher\\Edit.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Teacher\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T12:55:50.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Teacher\\Create.cshtml",
+              "RelativeDocumentMoniker": "Quiz\\Views\\Teacher\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Views\\Teacher\\Create.cshtml",
+              "RelativeToolTip": "Quiz\\Views\\Teacher\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T12:55:21.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241229123948_first.cs",
+              "DocumentMoniker": "C:\\Users\\Yassin.Mohamed\\source\\repos\\Quiz\\Quiz\\Migrations\\20241229123948_first.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Yassin.Mohamed\\source\\repos\\Quiz\\Quiz\\Migrations\\20241229123948_first.cs",
+              "ToolTip": "C:\\Users\\Yassin.Mohamed\\source\\repos\\Quiz\\Quiz\\Migrations\\20241229123948_first.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Yassin.Mohamed\\source\\repos\\Quiz\\Quiz\\Migrations\\20241229123948_first.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:39:48.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Program.cs",
+              "RelativeToolTip": "Quiz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:34:41.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\Entites\\Subjects.cs",
+              "RelativeDocumentMoniker": "Quiz\\Models\\Entites\\Subjects.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Quiz\\Quiz\\Models\\Entites\\Subjects.cs",
+              "RelativeToolTip": "Quiz\\Models\\Entites\\Subjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:15:04.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
